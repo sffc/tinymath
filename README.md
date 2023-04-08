@@ -16,3 +16,5 @@ the larger integer type.
 The motivation to write this crate was to experiment with vectorization;
 in theory, 8 ops in i8 could take as long as 4 ops in i16. This has not
 been definitively measured.
+
+This is not an officially supported Google product.
